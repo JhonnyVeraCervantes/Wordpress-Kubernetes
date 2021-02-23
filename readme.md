@@ -1,6 +1,7 @@
 ## Instale WordPress y Mysql en el Clúster de Kubernetes con volúmenes persistentes
+<img src="https://speckyboy.com/wp-content/uploads/2012/10/mysql_wordpress_hero.jpg">
 
-#### Usage
+#### Pasos
 
 1. Clone el repositorio
 `https://github.com/JhonnyVeraCervantes/Wordpress-Kubernetes.git .`
